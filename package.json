@@ -1,0 +1,19 @@
+{
+  "name": "yahoo-pigskin-pickem",
+  "version": "0.0.0",
+  "description": "A fun project to track and explore Yahoo! Pigskin Pick'em data with my friends and loved ones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/yahoo-pigskin-pickem.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/yahoo-pigskin-pickem/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/yahoo-pigskin-pickem#readme"
+}
