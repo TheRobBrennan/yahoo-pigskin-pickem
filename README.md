@@ -8,10 +8,10 @@ This year's league is available for members at [https://football.fantasysports.y
 
 ### Week 02
 
-![](./2023-24/week-02-standings.png)
-![](./2023-24/week-02-weekly-performance.png)
-![](./2023-24/week-02-group-picks.png)
-![](./2023-24/week-02-my-picks.png)
+![](./2023-24/week-02/week-02-standings.png)
+![](./2023-24/week-02/week-02-weekly-performance.png)
+![](./2023-24/week-02/week-02-group-picks.png)
+![](./2023-24/week-02/week-02-my-picks.png)
 
 ### Week 01
 
