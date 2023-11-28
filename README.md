@@ -6,6 +6,13 @@ This project has been created to track and explore fantasy football data in our 
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
+### Week 12
+
+![](./2023-24/week-12/week-12-standings.png)
+![](./2023-24/week-12/week-12-weekly-performance.png)
+![](./2023-24/week-12/week-12-group-picks.png)
+![](./2023-24/week-12/week-12-my-picks.png)
+
 ### Week 11
 
 ![](./2023-24/week-11/week-11-standings.png)
