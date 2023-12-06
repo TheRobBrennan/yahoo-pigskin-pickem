@@ -2,9 +2,20 @@
 
 This project has been created to track and explore fantasy football data in our fun Yahoo! Pigskin Pick'em league.
 
+Additional resources
+
+- [Tiebreakers for Pick'em games](https://help.yahoo.com/kb/SLN6629.html#:~:text=For%20any%20week%20where%202,for%20the%20first%20Tiebreak%20Game.)
+
 ## 2023-24
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
+
+### Week 13
+
+![](./2023-24/week-13/week-13-standings.png)
+![](./2023-24/week-13/week-13-weekly-performance.png)
+![](./2023-24/week-13/week-13-group-picks.png)
+![](./2023-24/week-13/week-13-my-picks.png)
 
 ### Week 12
 
