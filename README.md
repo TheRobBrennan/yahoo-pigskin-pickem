@@ -10,6 +10,13 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
+### Week 17
+
+![](./2023-24/week-17/week-17-standings.png)
+![](./2023-24/week-17/week-17-weekly-performance.png)
+![](./2023-24/week-17/week-17-group-picks.png)
+![](./2023-24/week-17/week-17-my-picks.png)
+
 ### Week 16
 
 ![](./2023-24/week-16/week-16-standings.png)
