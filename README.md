@@ -10,6 +10,15 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
+### Week 18
+
+Week #18 marks the end of the regular season.
+
+![](./2023-24/week-18/week-18-standings.png)
+![](./2023-24/week-18/week-18-weekly-performance.png)
+![](./2023-24/week-18/week-18-group-picks.png)
+![](./2023-24/week-18/week-18-my-picks.png)
+
 ### Week 17
 
 ![](./2023-24/week-17/week-17-standings.png)
