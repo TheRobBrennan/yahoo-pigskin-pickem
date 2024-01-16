@@ -10,6 +10,13 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
+### Week 19 - NFL Super Wild Card Weekend
+
+![](./2023-24/week-19-nfl-super-wildcard-weekend/week-19-standings.png)
+![](./2023-24/week-19-nfl-super-wildcard-weekend/week-19-weekly-performance.png)
+![](./2023-24/week-19-nfl-super-wildcard-weekend/week-19-group-picks.png)
+![](./2023-24/week-19-nfl-super-wildcard-weekend/week-19-my-picks.png)
+
 ### Week 18
 
 Week #18 marks the end of the regular season.
