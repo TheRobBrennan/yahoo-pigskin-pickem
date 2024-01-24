@@ -10,6 +10,13 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
+### Week 20 - NFL Divisional Round Playoffs
+
+![](./2023-24/week-20-nfl-divisional-round-playoffs/week-20-standings.png)
+![](./2023-24/week-20-nfl-divisional-round-playoffs/week-20-weekly-performance.png)
+![](./2023-24/week-20-nfl-divisional-round-playoffs/week-20-group-picks.png)
+![](./2023-24/week-20-nfl-divisional-round-playoffs/week-20-my-picks.png)
+
 ### Week 19 - NFL Super Wild Card Weekend
 
 ![](./2023-24/week-19-nfl-super-wildcard-weekend/week-19-standings.png)
