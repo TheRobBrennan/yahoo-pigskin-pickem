@@ -10,6 +10,13 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
+### Week 21 - NFL Conference Championships
+
+![](./2023-24/week-21-nfl-conference-championship/week-21-standings.png)
+![](./2023-24/week-21-nfl-conference-championship/week-21-weekly-performance.png)
+![](./2023-24/week-21-nfl-conference-championship/week-21-group-picks.png)
+![](./2023-24/week-21-nfl-conference-championship/week-21-my-picks.png)
+
 ### Week 20 - NFL Divisional Round Playoffs
 
 ![](./2023-24/week-20-nfl-divisional-round-playoffs/week-20-standings.png)
