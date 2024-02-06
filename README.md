@@ -10,6 +10,12 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
+### Week 22 - NFL Pro Bowl
+
+The NFL Pro Bowl is a bye week for the Yahoo! Pigskin Pick'em league, but it's fun to see who has and has not decided to make picks for the Super Bowl as of today - Monday, February 5th, 2024 at 8:47pm PST.
+
+![](./2023-24/week-22-nfl-pro-bowl/week-22-group-picks.png)
+
 ### Week 21 - NFL Conference Championships
 
 ![](./2023-24/week-21-nfl-conference-championship/week-21-standings.png)
