@@ -10,6 +10,20 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
+Congratulations to Jen Brewster for single-handled kicking ass all season long and earning the championship trophy.
+
+![](./2023-24/trophy/IMG_4659.jpeg)
+![](./2023-24/trophy/IMG_4660.jpeg)
+
+### Week 23 - NFL Super Bowl LVIII
+
+In one of the most thrilling [Super Bowls](https://www.nfl.com/games/49ers-at-chiefs-2023-post-4?active-tab=watch) in recent memory, Kansas City came from behind to win against San Francisco in OT.
+
+![](./2023-24/week-23-nfl-super-bowl-lviii/week-23-standings.png)
+![](./2023-24/week-23-nfl-super-bowl-lviii/week-23-weekly-performance.png)
+![](./2023-24/week-23-nfl-super-bowl-lviii/week-23-group-picks.png)
+![](./2023-24/week-23-nfl-super-bowl-lviii/week-23-my-picks.png)
+
 ### Week 22 - NFL Pro Bowl
 
 The NFL Pro Bowl is a bye week for the Yahoo! Pigskin Pick'em league, but it's fun to see who has and has not decided to make picks for the Super Bowl as of today - Monday, February 5th, 2024 at 8:47pm PST.
