@@ -10,7 +10,7 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
-Congratulations to Jen Brewster for single-handled kicking ass all season long and earning the championship trophy.
+Congratulations to Jen Brewster for single-handedly kicking ass all season long and earning the championship trophy.
 
 ![](./2023-24/trophy/IMG_4659.jpeg)
 ![](./2023-24/trophy/IMG_4660.jpeg)
