@@ -6,7 +6,13 @@ Additional resources
 
 - [Tiebreakers for Pick'em games](https://help.yahoo.com/kb/SLN6629.html#:~:text=For%20any%20week%20where%202,for%20the%20first%20Tiebreak%20Game.)
 
-## 2023-24
+## Seasons
+
+### 2024-25
+
+This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/13703](https://football.fantasysports.yahoo.com/pickem/13703)
+
+### 2023-24
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
 
