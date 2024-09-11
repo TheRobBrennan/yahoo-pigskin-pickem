@@ -12,6 +12,16 @@ Additional resources
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/13703](https://football.fantasysports.yahoo.com/pickem/13703)
 
+#### Week 01
+
+![](./2024-25/week-01/01.png)
+
+![](./2024-25/week-01/02.png)
+
+![](./2024-25/week-01/03.png)
+
+![](./2024-25/week-01/04.png)
+
 ### 2023-24
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/11847](https://football.fantasysports.yahoo.com/pickem/11847)
