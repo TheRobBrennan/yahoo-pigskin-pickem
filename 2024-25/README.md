@@ -20,9 +20,6 @@ This year's league is available for members at [https://football.fantasysports.y
 ### Week 01
 
 ![ ](./week-01/01.png)
-
 ![ ](./week-01/02.png)
-
 ![ ](./week-01/03.png)
-
 ![ ](./week-01/04.png)
