@@ -17,6 +17,13 @@ Sign up at [https://football.fantasysports.yahoo.com/pickem/register/joinprivate
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/13703](https://football.fantasysports.yahoo.com/pickem/13703)
 
+### Week 02
+
+![ ](./week-02/01.png)
+![ ](./week-02/02.png)
+![ ](./week-02/03.png)
+![ ](./week-02/04.png)
+
 ### Week 01
 
 ![ ](./week-01/01.png)
