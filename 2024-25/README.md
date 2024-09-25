@@ -17,6 +17,20 @@ Sign up at [https://football.fantasysports.yahoo.com/pickem/register/joinprivate
 
 This year's league is available for members at [https://football.fantasysports.yahoo.com/pickem/13703](https://football.fantasysports.yahoo.com/pickem/13703)
 
+Generally speaking, our images follow this naming convention:
+
+- `01.png` - Standings
+- `02.png` - Group picks
+- `03.png` - Weekly performance
+- `04.png` - My picks
+
+### Week 03
+
+![ ](./week-03/01.png)
+![ ](./week-03/02.png)
+![ ](./week-03/03.png)
+![ ](./week-03/04.png)
+
 ### Week 02
 
 ![ ](./week-02/01.png)
