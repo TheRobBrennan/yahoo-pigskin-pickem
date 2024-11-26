@@ -24,6 +24,13 @@ Generally speaking, our images follow this naming convention:
 - `03.png` - Weekly performance
 - `04.png` - My picks
 
+### Week 12
+
+![ ](./week-12/01.png)
+![ ](./week-12/02.png)
+![ ](./week-12/03.png)
+![ ](./week-12/04.png)
+
 ### Week 11
 
 Congratulations to `The Master Gobber` for a perfect week of picks. All 14 games were correctly chosen by Chris - a first for the Pigskin Pick'em 🏆
