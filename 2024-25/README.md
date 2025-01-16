@@ -24,6 +24,15 @@ Generally speaking, our images follow this naming convention:
 - `03.png` - Weekly performance
 - `04.png` - My picks
 
+### Week 19 - Wild Card
+
+The [Playoff Bracket](https://www.nfl.com/playoffs/bracket/) can be viewed [here](https://www.nfl.com/playoffs/bracket/)
+
+![ ](./week-19/01.png)
+![ ](./week-19/02.png)
+![ ](./week-19/03.png)
+![ ](./week-19/04.png)
+
 ### Week 18
 
 ![ ](./week-18/01.png)
