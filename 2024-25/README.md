@@ -24,6 +24,15 @@ Generally speaking, our images follow this naming convention:
 - `03.png` - Weekly performance
 - `04.png` - My picks
 
+### Week 21 - Conference Championships
+
+The [Playoff Bracket](https://www.nfl.com/playoffs/bracket/) can be viewed [here](https://www.nfl.com/playoffs/bracket/)
+
+![ ](./week-21/01.png)
+![ ](./week-21/02.png)
+![ ](./week-21/03.png)
+![ ](./week-21/04.png)
+
 ### Week 20 - Divisional Round
 
 The [Playoff Bracket](https://www.nfl.com/playoffs/bracket/) can be viewed [here](https://www.nfl.com/playoffs/bracket/)
