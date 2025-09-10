@@ -2,9 +2,9 @@
   "name": "yahoo-pigskin-pickem",
   "version": "0.0.0",
   "description": "A fun project to track and explore Yahoo! Pigskin Pick'em data with my friends and loved ones.",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test:workflows",
+    "test:workflows": "chmod +x .github/test-workflows.sh && .github/test-workflows.sh"
   },
   "repository": {
     "type": "git",
