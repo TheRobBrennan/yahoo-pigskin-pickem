@@ -1,6 +1,6 @@
 {
   "name": "yahoo-pigskin-pickem",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "A fun project to track and explore Yahoo! Pigskin Pick'em data with my friends and loved ones.",
   "scripts": {
     "test": "npm run test:workflows",
