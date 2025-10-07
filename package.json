@@ -3,7 +3,7 @@
   "version": "0.3.1",
   "description": "A fun project to track and explore Yahoo! Pigskin Pick'em data with my friends and loved ones.",
   "scripts": {
-    "test": "npm run test:workflows",
+    "test": "time npm run test:workflows",
     "test:workflows": "chmod +x .github/test-workflows.sh && .github/test-workflows.sh"
   },
   "repository": {
