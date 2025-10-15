@@ -8,7 +8,7 @@ These global rules define standardized Git workflow practices to be applied acro
 
 <branch_creation>
 
-- Always prefix new branch names with today's date in the format YYYY.MM.DD/ (e.g., 2025.05.08/)
+- Always prefix new branch names with today's date in the format YYYY.MM.DD/ (e.g., 2025.10.14/)
 - When creating new branches, always use the equivalent of 'gcob' alias: 'git checkout -b BRANCH-NAME && git push --set-upstream origin BRANCH-NAME'
 - This ensures new branches are created locally and immediately pushed to the remote with upstream tracking set
 - Never use plain 'git checkout -b' or track main by default
