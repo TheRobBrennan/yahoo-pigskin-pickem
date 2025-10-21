@@ -20,6 +20,13 @@ Generally speaking, our images follow this naming convention:
 - `03.png` - Weekly performance
 - `04.png` - My picks
 
+### Week 07
+
+![ ](./week-07/01.png)
+![ ](./week-07/02.png)
+![ ](./week-07/03.png)
+![ ](./week-07/04.png)
+
 ### Week 06
 
 ![ ](./week-06/01.png)
