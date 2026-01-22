@@ -20,6 +20,13 @@ Generally speaking, our images follow this naming convention:
 - `03.png` - Weekly performance
 - `04.png` - My picks
 
+### Postseason - Divisional Round (Week 2 of 4)
+
+![ ](./postseason-divisional/01.png)
+![ ](./postseason-divisional/02.png)
+![ ](./postseason-divisional/03.png)
+![ ](./postseason-divisional/04.png)
+
 ### Postseason - Wildcard Weekend (Week 1 of 4)
 
 ![ ](./postseason-wildcard/01.png)
