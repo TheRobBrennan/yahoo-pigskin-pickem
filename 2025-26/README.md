@@ -20,6 +20,13 @@ Generally speaking, our images follow this naming convention:
 - `03.png` - Weekly performance
 - `04.png` - My picks
 
+### Postseason - Super Bowl (Week 4 of 4)
+
+![ ](./postseason-super-bowl/01.png)
+![ ](./postseason-super-bowl/02.png)
+![ ](./postseason-super-bowl/03.png)
+![ ](./postseason-super-bowl/04.png)
+
 ### Postseason - Conference Championship (Week 3 of 4)
 
 ![ ](./postseason-conference-championship/01.png)
