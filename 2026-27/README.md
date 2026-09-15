@@ -20,6 +20,13 @@ Generally speaking, our images follow this naming convention:
 - `03.png` - Weekly performance
 - `04.png` - My picks
 
+### Week 01
+
+![ ](./week-01/01.png)
+![ ](./week-01/02.png)
+![ ](./week-01/03.png)
+![ ](./week-01/04.png)
+
 ### Casual invite
 
 Just getting the fun pick 'em league set up for this season. Totally free and for bragging rights only (OK, we do have an actual trophy that the winner gets to keep until the next winner is decided). Super chill. All you do is pick the teams that you think will win each week. No rosters to manage or spreads to beat. Easy peasy.
