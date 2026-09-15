@@ -36,4 +36,6 @@ This repository includes the following GitHub Actions workflows:
 
 - [Tiebreakers for Pick'em games](https://help.yahoo.com/kb/SLN6629.html#:~:text=For%20any%20week%20where%202,for%20the%20first%20Tiebreak%20Game.)
 
-Please see the [README](./2025-26/README.md) for the [2025-26 season](./2025-26/README.md) for this year's pick'em.
+Please see the [README](./2026-27/README.md) for the [2026-27 season](./2026-27/README.md) for this year's pick'em.
+
+Previous seasons: [2025-26](./2025-26/README.md), [2024-25](./2024-25/README.md), [2023-24](./2023-24/README.md).
